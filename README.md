@@ -1,4 +1,4 @@
-# DjangoBlog    #这是搬运了https://github.com/liangliangyy/DjangoBlog作者的代码，单纯的小白自学，希望原作者不要介意
+# DjangoBlog    #这是搬运了https://github.com/liangliangyy/DjangoBlog 作者的代码，单纯的小白自学，希望原作者不要介意
 
 🌍
 *[English](/docs/README-en.md) ∙ [简体中文](README.md)*
